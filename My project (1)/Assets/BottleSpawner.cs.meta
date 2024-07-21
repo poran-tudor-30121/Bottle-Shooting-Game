@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0f81dab4faf12bc40b5f66a217e3bfbb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bottlePrefab: {fileID: 4161910932973010274, guid: 965a5e109daaba24a8b11e6e39f1caa7, type: 3}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
